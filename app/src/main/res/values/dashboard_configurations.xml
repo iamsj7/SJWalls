@@ -19,10 +19,10 @@
     <!-- CONFIG: MUZEI -->
 
     <!-- Muzei art source name -->
-    <string name="muzei_art_source_name">AEXPapers</string>
+    <string name="muzei_art_source_name">SJWalls</string>
 
     <!-- Muzei art source description -->
-    <string name="muzei_art_source_desc">Walls branded for AospExtended ROM</string>
+    <string name="muzei_art_source_desc">Walls branded for SJWalls users</string>
 
     <!-- Muzei base color -->
     <color name="muzei_color">#21ef8b</color>
@@ -30,18 +30,18 @@
     <!-- CONFIG: TOOLBAR -->
 
     <!-- Toolbar title -->
-    <string name="toolbar_title">AEXPapers</string>
+    <string name="toolbar_title">SJWalls</string>
 
     <!-- CONFIG: Wallpapers -->
 
     <!-- Wallpaper json link -->
-    <string name="wallpaper_json">https://raw.githubusercontent.com/ishubhamsingh/AEXPapers_json/master/wallpaper_config.json</string>
+    <string name="wallpaper_json">https://raw.githubusercontent.com/iamsj7/SJWalls_json/master/wallpaper_config.json</string>
 
     <!-- Allow to download wallpaper
     * If disabled user only able to apply wallpaper from dashboard -->
     <bool name="enable_wallpaper_download">true</bool>
 
-    <string name="splash_screen_title">AospExtended Papers</string>
+    <string name="splash_screen_title">Shaik Jaleel ( SJ's Wallpapers)</string>
 
     <!-- CONFIG: NAVIGATION VIEW HEADER -->
 
@@ -75,11 +75,11 @@
     <string name="about_profile_image">https://github.com/AospExtended/manifest/raw/7.1.1/aex_logo.png</string>
 
     <!-- About title above description -->
-    <string name="about_title">AEXPapers</string>
+    <string name="about_title">SJWalls</string>
 
     <!-- About description below title -->
     <string name="about_desc"><![CDATA[
-         <b>A wallpaper app for user contributed AospExtended branded walls.
+         <b>A wallpaper app for user contributed SJWalls.
         ]]></string>
 
     <!-- Social link inside about
@@ -91,10 +91,10 @@
     * ex:
     * <string-array name="about_social_links"></string-array>-->
     <string-array name="about_social_links">
-        <item>https://plus.google.com/communities/106726906578669931141</item>
-        <item>http://github.com/AospExtended</item>
-        <item>http://aospextended.imgur.com/</item>
-        <item>aospextended@gmail.com</item>
+        <item>https://plus.google.com/u/0/+ShaikJaleel</item>
+        <item>http://github.com/imsj7</item>
+        <item>https://iamshaikjaleel.imgur.com/</item>
+        <item>iamshaikjaleel@gmail.com</item>
     </string-array>
 
     <!-- Contributors dialog
